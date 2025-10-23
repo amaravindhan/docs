@@ -23,6 +23,16 @@
             "icon": "newspaper"
           },
           {
+          "group": "Getting Started",
+          "pages": [
+            "quickstart",
+            {
+              "group": "Nested Reference Pages",
+              "pages": ["nested-reference-page"]
+            }
+          ]
+        },
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
