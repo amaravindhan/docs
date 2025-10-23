@@ -19,14 +19,16 @@
               "index",
               "quickstart",
               "development"
-            ]
+            ],
+            "icon": "newspaper"
           },
           {
             "group": "Customization",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
-            ]
+            ],
+            "icon": "newspaper"
           },
           {
             "group": "Writing content",
