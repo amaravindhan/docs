@@ -61,7 +61,7 @@
       },
       {
         "tab": "API reference",
-        "href": "https://external-link.com/blog",
+        "href": "api-reference/endpoint/get",
         "groups": [
           {
             "group": "API documentation",
