@@ -9,46 +9,6 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "languages": [
-      {
-        "language": "en",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": ["en/overview", "en/quickstart", "en/development"]
-          }
-        ]
-      },
-      {
-        "language": "es",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": ["es/overview", "es/quickstart", "es/development"]
-          }
-        ]
-      }
-    ],
-    "versions": [
-      {
-        "version": "1.0.0",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": ["v1/overview", "v1/quickstart", "v1/development"]
-          }
-        ]
-      },
-      {
-        "version": "2.0.0",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": ["v2/overview", "v2/quickstart", "v2/development"]
-          }
-        ]
-      }
-    ],
     "tabs": [
       {
         "tab": "Guides",
